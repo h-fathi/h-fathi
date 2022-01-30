@@ -11,7 +11,7 @@ I'm Hossein Fathi, a software engineer who loves to build great applications wit
  </a>
   
  <a href="https://stackoverflow.com/users/4588756/hossein" target="_blank">
-  <img src="https://img.icons8.com/color/2x/stackoverflow.png" />
+  <img src="https://img.icons8.com/fluent/48/000000/stackoverflow.png" />
  </a>
 </p>
 
