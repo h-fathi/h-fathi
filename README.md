@@ -38,14 +38,13 @@ I'm a software engineer who loves to build great applications with well-structur
 
 
 ```python
-class AbhigyanTrips():
+class HosseinTrips():
     
   def __init__(self):
     self.name = "Hossein Fathi Aghdam";
     self.username = "h-fathi";
     self.location = "Tehran, Iran";
-    self.linkedin = "https://ir.linkedin.com/in/hossein-fathi";
-    self.stackoverflow = "https://stackoverflow.com/users/4588756/hossein";
+    self.interested = "micro services, ddd";
   
   def __str__(self):
     return self.name
