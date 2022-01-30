@@ -44,7 +44,7 @@ class HosseinTrips():
     self.name = "Hossein Fathi Aghdam";
     self.username = "h-fathi";
     self.location = "Tehran, Iran";
-    self.interested = "micro services, ddd";
+    self.interested = "microservice, ddd";
   
   def __str__(self):
     return self.name
