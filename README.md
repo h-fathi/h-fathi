@@ -1,9 +1,9 @@
 <h1 align="center">
   <b>Hi there! I'm Hossein Fathi 👋</b>
 </h1>
-
-I'm Hossein Fathi, a software engineer who loves to build great applications with well-structured code and architecture.
-
+<p align="center">
+I'm a software engineer who loves to build great applications with well-structured code and architecture.
+</p>
 
 <p align="center">
  <a href="https://ir.linkedin.com/in/hossein-fathi" target="_blank">
