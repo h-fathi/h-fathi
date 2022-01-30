@@ -30,7 +30,7 @@ I'm a software engineer who loves to build great applications with well-structur
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/sql-server.svg" alt="typescript" width="40" height="40" />
+  <img src="https://www.seekpng.com/png/small/256-2566170_free-high-quality-sql-microsoft-sql-server-icon.png" alt="sql server" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 
 </p>
