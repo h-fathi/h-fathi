@@ -1,10 +1,20 @@
 <h1 align="center">
-  <b>Hossein Trips</b>
+  <b>Hi there! I'm Hossein Fathi 👋</b>
 </h1>
 
-Heya! I'm Hossein Fathi, a software developer currently living in Tehran, Iran. I'm preparing for 
-DDD, 
-and learning programming through small projects on the side.
+I'm Hossein Fathi, a software engineer who loves to build great applications with well-structured code and architecture.
+
+
+<p align="center">
+ <a href="https://ir.linkedin.com/in/hossein-fathi" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ <a href="https://stackoverflow.com/users/4588756/hossein" target="_blank">
+  <img src="https://img.icons8.com/color/2x/stackoverflow.png" />
+ </a>
+</p>
+
 
 <br>
 
