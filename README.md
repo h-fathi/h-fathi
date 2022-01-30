@@ -18,13 +18,24 @@ I'm a software engineer who loves to build great applications with well-structur
 
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
+
+<p align="center"> 
+ <strong>
+  My skills
+  </strong>
 </p>
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/sql-server.svg" alt="typescript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+
+</p>
+
+
+
 
 ```python
 class AbhigyanTrips():
@@ -42,23 +53,6 @@ class AbhigyanTrips():
 if __name__ == '__main__':
     me = HosseinTrips()
 ```
-
-
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=h-fathi&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=h-fathi&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=h-fathi&custom_title=hossein%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
-
-------
 
 
 Last Edited on: 24/12/2021
